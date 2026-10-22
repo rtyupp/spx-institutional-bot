@@ -1,6 +1,6 @@
 {
-  "last_signal_dir": null,
-  "last_signal_ts": 0.0,
+  "last_signal_dir": "BUY",
+  "last_signal_ts": 1792699663.6400938,
   "auto_trade": true,
-  "active_trade_deal_id": null
+  "active_trade_deal_id": "00000000-6d9e-7775-049a-592b0055311e"
 }
