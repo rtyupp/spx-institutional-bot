@@ -1,0 +1,66 @@
+name: SPX Institutional Bot
+
+# تشغيل البوت 24/7 مجاناً عبر GitHub Actions (مستودع عام = دقائق تشغيل مجانية غير محدودة، بلا بطاقة).
+# كل دورة تعمل ~5 ساعات و45 دقيقة ثم تُعاد تلقائياً كل 6 ساعات.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "مدة التشغيل بالدقائق"
+        required: false
+        default: "345"
+
+concurrency:
+  group: spx-institutional-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: تثبيت المتطلبات
+        run: pip install -r requirements.txt
+
+      - name: تشغيل البوت
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          CAPITAL_EMAIL: ${{ secrets.CAPITAL_EMAIL }}
+          CAPITAL_API_KEY: ${{ secrets.CAPITAL_API_KEY }}
+          CAPITAL_API_PASSWORD: ${{ secrets.CAPITAL_API_PASSWORD }}
+          CAPITAL_AUTO_TRADE: ${{ secrets.CAPITAL_AUTO_TRADE }}
+          PYTHONUNBUFFERED: "1"
+          RUN_MINUTES: ${{ github.event.inputs.minutes }}
+        run: |
+          MIN="${RUN_MINUTES:-345}"
+          echo "▶ بدء تشغيل البوت المؤسسي لـ SPX لمدة $MIN دقيقة..."
+          timeout --signal=INT "${MIN}m" python bot.py || true
+          echo "■ انتهت دورة التشغيل بنجاح"
+
+      - name: حفظ حالة البوت
+        if: always()
+        run: |
+          git config user.name "bot-runner"
+          git config user.email "bot-runner@users.noreply.github.com"
+          git add -f state.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "لا توجد تغييرات جديدة في الحالة."
+          else
+            git commit -m "state: تحديث حالة الإشارات والتداول"
+            git pull --rebase -X ours origin main || true
+            git push
+          fi
