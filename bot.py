@@ -101,23 +101,25 @@ def send_photo(chat_id: int | str, photo_bytes: bytes, caption: str, reply_marku
         return False
 
 
-def main_keyboard() -> dict:
-    return {
-        "inline_keyboard": [
-            [
-                {"text": "📊 التحليل المؤسسي", "callback_data": "cmd_analysis"},
-                {"text": "🎯 القرار والاستراتيجية", "callback_data": "cmd_decision"},
-            ],
-            [
-                {"text": "📈 شارت الشموع", "callback_data": "cmd_chart"},
-                {"text": "💰 السعر اللحظي", "callback_data": "cmd_price"},
-            ],
-            [
-                {"text": "🐋 صفقات الحيتان (الأوبشن)", "callback_data": "cmd_options"},
-                {"text": "💼 حساب Capital التجريبي", "callback_data": "cmd_capital"},
-            ],
-        ]
-    }
+def main_keyboard(is_admin: bool = False) -> dict:
+    rows = [
+        [
+            {"text": "📊 التحليل المؤسسي", "callback_data": "cmd_analysis"},
+            {"text": "🎯 القرار والاستراتيجية", "callback_data": "cmd_decision"},
+        ],
+        [
+            {"text": "📈 شارت الشموع", "callback_data": "cmd_chart"},
+            {"text": "💰 السعر اللحظي", "callback_data": "cmd_price"},
+        ],
+        [
+            {"text": "🐋 صفقات الحيتان (الأوبشن)", "callback_data": "cmd_options"},
+        ],
+    ]
+    if is_admin:
+        rows[2].append({"text": "💼 حساب Capital", "callback_data": "cmd_capital"})
+    else:
+        rows[2].append({"text": "📖 دليل الأوامر", "callback_data": "cmd_help"})
+    return {"inline_keyboard": rows}
 
 
 # =====================================================================
@@ -289,21 +291,24 @@ def format_capital_message(acc: dict) -> str:
 # =====================================================================
 def handle_message(msg: dict, state: dict) -> None:
     chat_id = msg.get("chat", {}).get("id")
+    user_id = msg.get("from", {}).get("id") or chat_id
     text = (msg.get("text") or "").strip()
     if not chat_id or not text:
         return
 
-    cmd = text.split()[0].lower()
+    is_admin = bool(user_id and user_id == config.ADMIN_CHAT_ID)
+    raw_cmd = text.split()[0].lower()
+    cmd = raw_cmd.split("@")[0]  # إزالة @username للأوامر في المجموعات
 
     if cmd in ("/start", "ابدأ"):
         intro = (
             "🏛 <b>مرحباً بك في بوت S&P 500 المؤسسي</b>\n"
             "━━━━━━━━━━━━━━━━━━\n"
-            "يرصد البوت تحركات البنوك وصناع السوق (Smart Money Concepts) وتدفقات الأوبشن الضخمة، "
-            "مع إمكانية التنفيذ التلقائي على حسابك التجريبي في Capital.com.\n\n"
-            "اختر ما تريد من الأزرار بالأسفل أو استخدم الأوامر المباشرة:"
+            "بوت عام مفتوح للجميع لمراقبة مؤشر S&P 500 ورصد دخول البنوك وصناع السوق "
+            "(Smart Money Concepts) وتدفقات عقود الأوبشن الضخمة والشارتات اللحظية.\n\n"
+            "اختر ما تريد من الأزرار بالأسفل أو أرسل الأمر مباشرة:"
         )
-        send_message(chat_id, intro, reply_markup=main_keyboard())
+        send_message(chat_id, intro, reply_markup=main_keyboard(is_admin=is_admin))
 
     elif cmd in ("/price", "/السعر"):
         try:
@@ -345,6 +350,9 @@ def handle_message(msg: dict, state: dict) -> None:
             send_message(chat_id, f"❌ خطأ في فحص الأوبشن: {e}")
 
     elif cmd in ("/capital", "/الحساب"):
+        if not is_admin:
+            send_message(chat_id, "🔒 هذا الأمر مخصص لإدارة الحساب التجريبي للمسؤول فقط.\nيمكنك استخدام باقي الأوامر العامة: /analysis, /chart, /price, /options")
+            return
         try:
             acc = capital.account_summary()
             send_message(chat_id, format_capital_message(acc))
@@ -352,6 +360,9 @@ def handle_message(msg: dict, state: dict) -> None:
             send_message(chat_id, f"❌ تعذر جلب بيانات الحساب: {e}")
 
     elif cmd in ("/buy", "/شراء"):
+        if not is_admin:
+            send_message(chat_id, "🔒 أوامر التداول مخصصة للمسؤول فقط.")
+            return
         try:
             parts = text.split()
             size = float(parts[1]) if len(parts) > 1 else config.TRADE_SIZE
@@ -379,6 +390,9 @@ def handle_message(msg: dict, state: dict) -> None:
             send_message(chat_id, f"❌ فشل فتح الصفقة: {e}")
 
     elif cmd in ("/sell", "/بيع"):
+        if not is_admin:
+            send_message(chat_id, "🔒 أوامر التداول مخصصة للمسؤول فقط.")
+            return
         try:
             parts = text.split()
             size = float(parts[1]) if len(parts) > 1 else config.TRADE_SIZE
@@ -406,6 +420,9 @@ def handle_message(msg: dict, state: dict) -> None:
             send_message(chat_id, f"❌ فشل فتح الصفقة: {e}")
 
     elif cmd in ("/closeall", "/إغلاق"):
+        if not is_admin:
+            send_message(chat_id, "🔒 أوامر التداول مخصصة للمسؤول فقط.")
+            return
         try:
             count = capital.close_all()
             state["active_trade_deal_id"] = None
@@ -415,6 +432,9 @@ def handle_message(msg: dict, state: dict) -> None:
             send_message(chat_id, f"❌ خطأ أثناء الإغلاق: {e}")
 
     elif cmd in ("/autotrade", "/التداول_التلقائي"):
+        if not is_admin:
+            send_message(chat_id, "🔒 هذا الأمر مخصص للمسؤول فقط.")
+            return
         parts = text.split()
         if len(parts) > 1:
             val = parts[1].lower() in ("on", "1", "true", "تفعيل")
@@ -500,6 +520,7 @@ def handle_callback(cb: dict, state: dict) -> None:
         "cmd_price": "/price",
         "cmd_options": "/options",
         "cmd_capital": "/capital",
+        "cmd_help": "/help",
     }
     target_cmd = cmd_map.get(data)
     if target_cmd and chat_id:
