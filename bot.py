@@ -511,7 +511,7 @@ def handle_callback(cb: dict, state: dict) -> None:
 # =====================================================================
 def signal_watcher_loop(state: dict) -> None:
     logger.info("Signal watcher loop started (interval: %ds, cooldown: %dm)", config.SIGNAL_INTERVAL_SEC, config.SIGNAL_COOLDOWN_MIN)
-    target_chat = config.ADMIN_CHAT_ID
+    target_chat = config.CHANNEL_ID or config.ADMIN_CHAT_ID
 
     while _RUNNING:
         try:

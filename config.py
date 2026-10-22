@@ -19,6 +19,7 @@ _load_dotenv()
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 ADMIN_CHAT_ID = int(os.environ.get("ADMIN_CHAT_ID", "0") or 0)
+CHANNEL_ID = os.environ.get("CHANNEL_ID", "").strip() or str(ADMIN_CHAT_ID)
 
 # Capital.com Demo API
 CAPITAL_EMAIL = os.environ.get("CAPITAL_EMAIL", "")
