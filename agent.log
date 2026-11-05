@@ -1,0 +1,551 @@
+2026-10-28 19:07:28,813 [INFO] Autonomous market pulse scanner started.
+2026-10-28 19:07:28,814 [INFO] Telegram polling started...
+2026-10-28 19:08:20,783 [INFO] User message: /start
+2026-10-28 19:08:52,991 [ERROR] AI Call error: timed out
+2026-10-28 19:10:06,500 [INFO] User message: هل فيه صفقات مفتوحه؟
+2026-10-28 19:13:53,249 [INFO] Autonomous market pulse scanner started.
+2026-10-28 19:13:53,249 [INFO] Telegram polling started...
+2026-10-28 19:16:45,715 [INFO] User message: كيف وضع السوق
+2026-10-28 19:53:57,997 [INFO] User message: كيف الوضع
+2026-10-28 19:56:09,704 [INFO] User message: ‏متى تبدأ الجلسة القادمة
+2026-10-28 19:58:42,002 [ERROR] Polling error: The read operation timed out
+2026-10-28 19:59:11,489 [ERROR] Polling error: The read operation timed out
+2026-10-28 21:05:50,531 [ERROR] Polling error: The read operation timed out
+2026-10-28 21:42:39,446 [ERROR] Polling error: The read operation timed out
+2026-10-28 22:02:58,737 [ERROR] Polling error: The read operation timed out
+2026-10-28 22:12:48,963 [ERROR] Polling error: The read operation timed out
+2026-10-28 22:26:54,290 [ERROR] Polling error: The read operation timed out
+2026-10-28 22:36:13,288 [ERROR] Polling error: The read operation timed out
+2026-10-28 22:51:07,890 [ERROR] Polling error: The read operation timed out
+2026-10-28 22:56:34,217 [ERROR] Polling error: The read operation timed out
+2026-10-29 12:30:07,470 [INFO] Autonomous market pulse scanner started.
+2026-10-29 12:30:07,470 [INFO] Telegram polling started...
+2026-10-29 12:30:28,738 [INFO] User message: الو
+2026-10-29 12:36:18,322 [INFO] Autonomous market pulse scanner started.
+2026-10-29 12:36:18,322 [INFO] Telegram polling started...
+2026-10-29 12:40:48,791 [ERROR] Capital request error (/accounts): <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-29 12:42:47,324 [INFO] Autonomous market pulse & sniper scanner started.
+2026-10-29 12:42:47,324 [INFO] Telegram polling started...
+2026-10-29 12:45:27,083 [ERROR] Polling error: The read operation timed out
+2026-10-29 12:52:26,241 [ERROR] Polling error: The read operation timed out
+2026-10-29 14:22:18,413 [ERROR] Polling error: The read operation timed out
+2026-10-29 14:48:31,789 [ERROR] Polling error: The read operation timed out
+2026-10-29 16:05:49,633 [ERROR] Polling error: The read operation timed out
+2026-10-29 16:08:55,737 [ERROR] Polling error: The read operation timed out
+2026-10-29 16:35:30,359 [ERROR] Polling error: The read operation timed out
+2026-10-29 16:38:33,208 [INFO] User message: وش الوضع
+2026-10-29 17:29:19,477 [ERROR] Polling error: The read operation timed out
+2026-10-29 17:42:21,074 [ERROR] Polling error: The read operation timed out
+2026-10-29 17:42:45,322 [INFO] User message: ليه خسرت الصفقه
+2026-10-29 17:44:08,407 [ERROR] Polling error: The read operation timed out
+2026-10-29 17:44:11,033 [INFO] User message: يا ثور الساعه 5:44
+2026-10-29 18:12:04,507 [ERROR] Polling error: The read operation timed out
+2026-10-29 19:33:23,505 [ERROR] Polling error: The read operation timed out
+2026-10-29 19:47:48,952 [INFO] User message: اهين توصياتك
+2026-10-29 21:39:18,764 [ERROR] Polling error: The read operation timed out
+2026-10-29 21:40:33,507 [ERROR] Polling error: The read operation timed out
+2026-10-29 21:53:40,479 [ERROR] Polling error: The read operation timed out
+2026-10-29 22:27:55,627 [INFO] AI-Gated 1H Institutional Scanner started.
+2026-10-29 22:27:55,628 [INFO] Telegram polling started...
+2026-10-29 22:35:49,954 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-10-29 22:35:49,955 [INFO] Telegram polling started...
+2026-10-29 22:38:21,404 [INFO] User message: كيف وضع السوق
+2026-10-29 23:29:46,075 [ERROR] Polling error: The read operation timed out
+2026-10-29 23:37:09,352 [ERROR] Polling error: The read operation timed out
+2026-10-30 00:06:43,866 [ERROR] Polling error: The read operation timed out
+2026-10-30 00:32:14,580 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-30 00:59:20,721 [ERROR] Polling error: The read operation timed out
+2026-10-30 01:07:00,805 [ERROR] Polling error: The read operation timed out
+2026-10-30 01:20:18,410 [ERROR] Polling error: The read operation timed out
+2026-10-30 15:48:00,054 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-10-30 15:48:00,054 [INFO] Telegram polling started...
+2026-10-30 16:07:52,406 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-10-30 16:13:36,943 [ERROR] Polling error: Remote end closed connection without response
+2026-10-30 16:22:21,535 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:22:43,576 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 16:33:25,672 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:34:39,601 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 16:37:49,646 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:38:11,663 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 16:38:13,669 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:13,907 [ERROR] Capital request error (/markets/SPY): <urlopen error [WinError 10065] A socket operation was attempted to an unreachable host>
+2026-10-30 16:38:14,409 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:14,912 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:15,416 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:15,674 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:17,676 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:19,678 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:21,679 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:23,683 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:25,684 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:27,686 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:29,688 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:31,689 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:33,692 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:35,695 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:37,696 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:39,699 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:41,700 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:43,710 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:45,712 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:45,918 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:46,421 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:46,924 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:47,429 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:47,717 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:49,726 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:51,728 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:53,732 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:55,733 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:57,735 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:38:59,743 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:01,744 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:03,747 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:05,748 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:07,749 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:09,751 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:11,752 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:13,755 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:15,762 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:17,461 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:17,462 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:17,464 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:17,464 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:17,768 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:19,772 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:21,773 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:23,776 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:25,778 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:27,780 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:29,783 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:31,792 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:33,797 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:35,798 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:37,801 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:39,802 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:41,804 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:43,806 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:45,808 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:47,471 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:47,471 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:47,471 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:47,471 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:47,812 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:49,814 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:51,816 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:53,819 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:55,820 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:57,822 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:39:59,823 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:42:40,785 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:43:13,359 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:53:14,178 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-10-30 16:58:28,891 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:59:19,763 [ERROR] Polling error: The read operation timed out
+2026-10-30 16:59:33,585 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:34,093 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:34,596 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:35,099 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:41,766 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 16:59:43,766 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:45,768 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:47,770 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:49,786 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:51,789 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:53,791 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:55,794 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:57,798 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 16:59:59,799 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:01,801 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:03,803 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:05,610 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:05,806 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:06,113 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:06,618 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:07,124 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:07,809 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:09,810 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:11,812 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:13,814 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:15,817 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:17,820 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:19,833 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:21,835 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:23,839 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:25,840 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:27,843 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:29,846 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:31,848 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:33,851 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:35,853 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:37,628 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:37,855 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:38,134 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:38,637 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:39,140 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:39,858 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:41,860 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:43,863 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:45,866 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:47,868 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:49,870 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:51,877 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:53,878 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:55,882 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:57,883 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:00:59,887 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:01,892 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:03,892 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:05,895 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:07,897 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:09,644 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:09,901 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:10,147 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:10,651 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:11,156 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:11,902 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:13,904 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:15,906 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:17,911 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:19,916 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:21,925 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:23,928 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:25,929 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:27,932 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:29,934 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:31,939 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:33,940 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:35,952 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:37,953 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:39,955 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:41,659 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:41,958 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:42,162 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:42,668 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:43,171 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:43,961 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:45,963 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:47,967 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:49,968 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:51,972 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:53,973 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:55,976 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:57,980 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:01:59,982 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:01,984 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:03,986 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:05,992 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:07,994 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:09,995 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:11,997 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:13,674 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:13,999 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:14,178 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:14,687 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:15,196 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:16,002 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:18,005 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:20,008 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:22,012 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:24,013 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:26,016 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:28,018 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:30,020 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:32,023 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:34,028 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:36,029 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:38,033 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:40,035 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:42,038 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:44,041 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:45,708 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:46,043 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:46,212 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:46,716 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:47,220 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:48,045 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:50,047 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:52,048 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:54,054 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:56,055 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:02:58,059 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:00,070 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:02,073 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:04,074 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:06,076 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:08,080 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:10,081 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:12,086 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:14,087 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:16,091 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:17,725 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:18,093 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:18,227 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:18,732 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:19,236 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:20,096 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:22,100 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:24,102 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:26,106 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:28,109 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:30,111 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:32,114 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:34,116 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:36,119 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:38,123 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:40,124 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:42,126 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:44,130 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:46,133 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:48,135 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:49,741 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:50,137 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:50,243 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:50,747 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:51,252 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:52,141 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:54,145 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:56,147 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:03:58,153 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:00,156 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:02,157 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:04,163 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:06,164 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:08,168 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:10,169 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:12,172 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:14,175 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:16,179 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:18,190 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:20,192 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:21,755 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:22,197 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:22,259 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:22,764 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:23,267 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:24,198 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:26,203 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:28,204 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:30,208 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:32,209 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:34,212 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:36,217 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:38,218 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:40,223 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:42,224 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:44,226 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:46,229 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:48,234 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:04:50,235 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:05:23,977 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:05:49,732 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:06:31,396 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:06:53,406 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 17:07:33,671 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:07:39,689 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:07:55,688 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 17:08:04,255 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:04,759 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:05,262 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:17,700 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 17:08:39,716 [ERROR] Polling error: <urlopen error timed out>
+2026-10-30 17:08:54,181 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:54,685 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:55,187 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:55,691 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 17:08:56,143 [ERROR] Polling error: <urlopen error [WinError 10053] An established connection was aborted by the software in your host machine>
+2026-10-30 17:17:36,861 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:32:01,293 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:33:29,260 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:34:09,184 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:36:19,749 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:38:30,982 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-10-30 17:39:56,535 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:44:09,702 [ERROR] Polling error: The read operation timed out
+2026-10-30 17:51:33,569 [ERROR] Polling error: The read operation timed out
+2026-10-30 18:06:33,240 [ERROR] Polling error: The read operation timed out
+2026-10-30 18:12:26,936 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-30 18:31:09,476 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-10-30 18:42:41,338 [ERROR] Polling error: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-10-30 18:43:20,967 [ERROR] Polling error: The read operation timed out
+2026-10-30 18:43:22,968 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:24,971 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:26,975 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:28,976 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:30,979 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:32,986 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:34,993 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:36,998 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:37,081 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:37,585 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:38,087 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:38,592 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:39,001 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:43:41,003 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 18:50:23,047 [ERROR] Polling error: The read operation timed out
+2026-10-30 18:57:02,103 [ERROR] Polling error: Remote end closed connection without response
+2026-10-30 19:13:12,188 [ERROR] Polling error: The read operation timed out
+2026-10-30 19:35:29,578 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-30 19:43:13,548 [ERROR] Polling error: The read operation timed out
+2026-10-30 19:50:30,935 [ERROR] Polling error: The read operation timed out
+2026-10-30 19:59:19,177 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-30 19:59:42,175 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-30 20:10:36,249 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-30 20:20:29,254 [ERROR] Polling error: The read operation timed out
+2026-10-30 20:27:12,079 [ERROR] Polling error: The read operation timed out
+2026-10-30 20:28:23,672 [ERROR] Polling error: The read operation timed out
+2026-10-30 20:32:03,845 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-10-30 22:21:33,508 [ERROR] Polling error: Remote end closed connection without response
+2026-10-30 22:21:34,733 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): HTTP Error 401: 
+2026-10-30 22:21:36,486 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): HTTP Error 401: 
+2026-10-30 22:30:54,346 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-10-30 22:38:42,548 [ERROR] Polling error: The read operation timed out
+2026-10-30 22:40:14,577 [ERROR] Polling error: The read operation timed out
+2026-10-30 23:08:16,084 [ERROR] Polling error: The read operation timed out
+2026-10-30 23:16:10,854 [ERROR] Polling error: The read operation timed out
+2026-10-30 23:17:23,045 [ERROR] Polling error: The read operation timed out
+2026-10-30 23:43:10,850 [ERROR] Polling error: The read operation timed out
+2026-10-30 23:43:27,686 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 23:43:28,192 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 23:43:28,695 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 23:43:29,200 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-30 23:43:46,689 [ERROR] Polling error: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-10-31 00:26:52,932 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 00:27:21,572 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 01:45:20,318 [ERROR] Polling error: The read operation timed out
+2026-10-31 02:14:56,256 [ERROR] Polling error: The read operation timed out
+2026-10-31 02:37:25,487 [ERROR] Polling error: The read operation timed out
+2026-10-31 14:26:08,845 [ERROR] Capital auth failed: Remote end closed connection without response
+2026-10-31 14:26:08,896 [ERROR] Polling error: Remote end closed connection without response
+2026-10-31 14:27:17,337 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): The read operation timed out
+2026-10-31 14:34:54,812 [ERROR] Capital auth failed: The read operation timed out
+2026-10-31 14:35:05,059 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 14:35:07,513 [ERROR] Capital auth failed: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 14:35:27,262 [ERROR] Capital auth failed: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 14:35:39,865 [ERROR] Capital auth failed: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 14:44:11,298 [ERROR] Polling error: The read operation timed out
+2026-10-31 14:51:48,901 [ERROR] Polling error: The read operation timed out
+2026-10-31 15:14:14,955 [ERROR] Polling error: The read operation timed out
+2026-10-31 15:19:39,558 [ERROR] Polling error: The read operation timed out
+2026-10-31 16:35:44,512 [ERROR] Polling error: The read operation timed out
+2026-10-31 16:36:27,847 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-10-31 16:44:38,805 [ERROR] Polling error: The read operation timed out
+2026-10-31 17:11:49,396 [ERROR] Polling error: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-10-31 17:18:12,676 [ERROR] Polling error: The read operation timed out
+2026-10-31 18:15:11,844 [ERROR] Polling error: The read operation timed out
+2026-10-31 18:37:21,624 [ERROR] Polling error: The read operation timed out
+2026-10-31 19:45:10,210 [ERROR] Polling error: The read operation timed out
+2026-10-31 20:08:35,142 [ERROR] Polling error: The read operation timed out
+2026-10-31 20:45:01,839 [ERROR] Polling error: The read operation timed out
+2026-10-31 23:55:02,194 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-10-31 23:55:02,194 [INFO] Telegram polling started...
+2026-10-31 23:57:17,403 [ERROR] Polling error: The read operation timed out
+2026-11-01 00:25:58,774 [ERROR] Polling error: The read operation timed out
+2026-11-01 00:28:20,040 [ERROR] Polling error: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-11-01 00:48:32,007 [ERROR] Polling error: The read operation timed out
+2026-11-01 01:04:41,214 [ERROR] Polling error: The read operation timed out
+2026-11-01 01:09:05,634 [ERROR] Polling error: The read operation timed out
+2026-11-01 01:48:47,636 [ERROR] Polling error: The read operation timed out
+2026-11-01 02:35:48,993 [ERROR] Polling error: The read operation timed out
+2026-11-01 02:40:33,990 [ERROR] Polling error: The read operation timed out
+2026-11-01 02:55:21,920 [ERROR] Polling error: The read operation timed out
+2026-11-01 11:31:32,659 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-11-01 11:31:32,659 [INFO] Telegram polling started...
+2026-11-01 12:02:09,889 [ERROR] TG Send failed: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-11-01 12:21:25,104 [ERROR] Polling error: The read operation timed out
+2026-11-01 13:15:32,323 [ERROR] Polling error: The read operation timed out
+2026-11-01 17:21:14,594 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-11-01 17:21:14,594 [INFO] Telegram polling started...
+2026-11-01 18:02:56,309 [ERROR] Polling error: The read operation timed out
+2026-11-01 18:10:25,559 [ERROR] Polling error: The read operation timed out
+2026-11-01 19:24:47,558 [ERROR] Polling error: The read operation timed out
+2026-11-01 19:43:40,638 [ERROR] Polling error: The read operation timed out
+2026-11-01 19:59:10,856 [ERROR] Polling error: The read operation timed out
+2026-11-01 20:16:34,127 [ERROR] Polling error: The read operation timed out
+2026-11-01 21:09:12,797 [ERROR] Polling error: The read operation timed out
+2026-11-01 21:16:37,283 [ERROR] Polling error: Remote end closed connection without response
+2026-11-01 21:27:04,618 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-11-01 21:45:34,834 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-11-01 21:45:36,946 [ERROR] Polling error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-01 21:45:42,468 [ERROR] Capital request error (/markets/SPY): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-01 21:45:43,295 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-01 21:45:44,008 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-01 21:45:44,702 [ERROR] Capital request error (/positions): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-01 21:45:50,338 [ERROR] Polling error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-01 22:08:04,915 [ERROR] Polling error: The read operation timed out
+2026-11-02 00:08:43,068 [ERROR] Polling error: The read operation timed out
+2026-11-02 01:18:18,983 [ERROR] Polling error: The read operation timed out
+2026-11-02 01:18:32,763 [ERROR] Capital auth failed: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-02 01:18:33,024 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 01:32:42,835 [ERROR] Polling error: The read operation timed out
+2026-11-02 01:57:36,668 [ERROR] Polling error: The read operation timed out
+2026-11-02 02:10:08,784 [ERROR] Polling error: The read operation timed out
+2026-11-02 02:38:11,360 [ERROR] Polling error: <urlopen error timed out>
+2026-11-02 02:38:37,544 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-11-02 07:08:03,682 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-11-02 07:08:03,682 [INFO] Telegram polling started...
+2026-11-02 07:21:25,667 [ERROR] Polling error: The read operation timed out
+2026-11-02 07:29:06,553 [ERROR] Polling error: The read operation timed out
+2026-11-02 07:44:14,505 [ERROR] Polling error: The read operation timed out
+2026-11-02 07:47:08,593 [ERROR] Polling error: The read operation timed out
+2026-11-02 08:07:33,705 [ERROR] Polling error: The read operation timed out
+2026-11-02 08:09:30,633 [ERROR] Polling error: The read operation timed out
+2026-11-02 08:17:10,919 [ERROR] Polling error: The read operation timed out
+2026-11-02 08:44:12,146 [ERROR] Polling error: The read operation timed out
+2026-11-02 09:06:28,959 [ERROR] Polling error: The read operation timed out
+2026-11-02 09:14:43,554 [ERROR] Polling error: The read operation timed out
+2026-11-02 09:37:03,893 [ERROR] Polling error: The read operation timed out
+2026-11-02 10:05:52,606 [ERROR] Polling error: <urlopen error _ssl.c:993: The handshake operation timed out>
+2026-11-02 12:44:01,935 [INFO] AI-Gated 1H Institutional Scanner & Position Manager started.
+2026-11-02 12:44:01,935 [INFO] Telegram polling started...
+2026-11-02 13:02:56,145 [ERROR] Polling error: The read operation timed out
+2026-11-02 13:04:46,537 [ERROR] Polling error: The read operation timed out
+2026-11-02 13:12:32,044 [ERROR] Polling error: The read operation timed out
+2026-11-02 13:32:47,824 [ERROR] Polling error: The read operation timed out
+2026-11-02 13:33:07,845 [ERROR] Polling error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>
+2026-11-02 13:33:17,724 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:17,891 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:18,232 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:18,735 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:19,241 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:19,892 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:21,894 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:23,896 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:25,899 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:27,900 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:29,901 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:31,903 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:33,905 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:40,444 [ERROR] Polling error: <urlopen error [WinError 10051] A socket operation was attempted to an unreachable network>
+2026-11-02 13:33:42,445 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:44,446 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:46,455 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:48,467 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:49,744 [ERROR] Capital request error (/markets/SPY): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:50,247 [ERROR] Capital request error (/prices/SPY?resolution=HOUR&max=60): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:50,469 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:50,750 [ERROR] Capital request error (/prices/SPY?resolution=MINUTE_5&max=35): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:33:51,254 [ERROR] Capital request error (/positions): <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:34:54,290 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 13:36:44,678 [ERROR] Polling error: The read operation timed out
+2026-11-02 13:39:44,726 [ERROR] Polling error: The read operation timed out
+2026-11-02 14:06:37,440 [ERROR] Polling error: The read operation timed out
+2026-11-02 14:37:12,664 [ERROR] Polling error: The read operation timed out
+2026-11-02 14:59:46,486 [ERROR] TG Send failed: HTTP Error 400: Bad Request
+2026-11-02 16:09:21,233 [ERROR] Polling error: Remote end closed connection without response
+2026-11-02 16:09:21,260 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 16:09:21,330 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 16:09:21,350 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 16:09:21,368 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 16:09:21,371 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 16:09:23,299 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 16:09:25,301 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 18:50:21,784 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 18:50:21,786 [ERROR] Polling error: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 18:50:21,790 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 18:50:21,833 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 18:50:21,840 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 18:50:21,885 [ERROR] Capital auth failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-02 19:16:54,857 [ERROR] Polling error: The read operation timed out
+2026-11-02 20:07:51,607 [ERROR] Polling error: The read operation timed out
+2026-11-02 20:44:37,856 [ERROR] AI Call error: timed out
